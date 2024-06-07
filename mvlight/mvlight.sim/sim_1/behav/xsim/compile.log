@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/VHDL/mvlight/mvlight.srcs/sources_1/new/mvlight.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mvlight'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/VHDL/mvlight/mvlight.srcs/sim_1/new/mvlight_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mvlight_tb'

@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../mvlight.srcs/sources_1/new/mvlight.vhd" \
+"../../../../mvlight.srcs/sim_1/new/mvlight_tb.vhd" \
+
+# Do not sort compile order
+nosort
